@@ -1,0 +1,213 @@
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\ApplicationInsights.config
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\csc.exe
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\csc.exe.config
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\csc.rsp
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\csi.exe
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\csi.rsp
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\System.AppContext.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\System.Collections.Immutable.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\System.IO.FileSystem.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\vbc.exe
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\vbc.exe.config
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\vbc.rsp
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\VBCSCompiler.exe
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\roslyn\VBCSCompiler.exe.config
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\Soding Assignment (Stevan Giano Putra).dll.config
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\Soding Assignment (Stevan Giano Putra).dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\Soding Assignment (Stevan Giano Putra).pdb
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\Antlr3.Runtime.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\EntityFramework.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\EntityFramework.SqlServer.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.Web.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.WindowsServer.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.ApplicationInsights.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.Web.Infrastructure.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\Newtonsoft.Json.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\System.Web.Helpers.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\System.Web.Mvc.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\System.Web.Optimization.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\System.Web.Razor.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\System.Web.WebPages.Deployment.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\System.Web.WebPages.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\System.Web.WebPages.Razor.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\WebGrease.dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\EntityFramework.xml
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\EntityFramework.SqlServer.xml
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\System.Web.Helpers.xml
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\System.Web.Mvc.xml
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\System.Web.Optimization.xml
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\System.Web.Razor.xml
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\System.Web.WebPages.xml
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\System.Web.WebPages.Deployment.xml
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\System.Web.WebPages.Razor.xml
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\Antlr3.Runtime.pdb
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\Newtonsoft.Json.xml
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.ApplicationInsights.xml
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.WindowsServer.xml
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.Web.xml
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\obj\Debug\Soding Assignment (Stevan Giano Putra).csprojResolveAssemblyReference.cache
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\obj\Debug\Soding Assignment (Stevan Giano Putra).dll
+c:\users\john\documents\visual studio 2017\Projects\Soding Assignment (Stevan Giano Putra)\Soding Assignment (Stevan Giano Putra)\obj\Debug\Soding Assignment (Stevan Giano Putra).pdb
+E:\Soding Assignment (Stevan Giano Putra)\bin\ApplicationInsights.config
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\csc.exe
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\csc.exe.config
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\csc.rsp
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\csi.exe
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\csi.rsp
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\System.AppContext.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\System.Collections.Immutable.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\System.IO.FileSystem.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\System.Reflection.Metadata.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\vbc.exe
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\vbc.exe.config
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\vbc.rsp
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\VBCSCompiler.exe
+E:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\VBCSCompiler.exe.config
+E:\Soding Assignment (Stevan Giano Putra)\bin\Soding Assignment (Stevan Giano Putra).dll.config
+E:\Soding Assignment (Stevan Giano Putra)\bin\Soding Assignment (Stevan Giano Putra).dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\Soding Assignment (Stevan Giano Putra).pdb
+E:\Soding Assignment (Stevan Giano Putra)\bin\Antlr3.Runtime.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\EntityFramework.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\EntityFramework.SqlServer.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.DependencyCollector.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.Web.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.WindowsServer.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.ApplicationInsights.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.Web.Infrastructure.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\Newtonsoft.Json.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.Helpers.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.Mvc.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.Optimization.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.Razor.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.WebPages.Deployment.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.WebPages.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.WebPages.Razor.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\WebGrease.dll
+E:\Soding Assignment (Stevan Giano Putra)\bin\EntityFramework.xml
+E:\Soding Assignment (Stevan Giano Putra)\bin\EntityFramework.SqlServer.xml
+E:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.Helpers.xml
+E:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.Mvc.xml
+E:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.Optimization.xml
+E:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.Razor.xml
+E:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.WebPages.xml
+E:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.WebPages.Deployment.xml
+E:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.WebPages.Razor.xml
+E:\Soding Assignment (Stevan Giano Putra)\bin\Antlr3.Runtime.pdb
+E:\Soding Assignment (Stevan Giano Putra)\bin\Newtonsoft.Json.xml
+E:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.ApplicationInsights.xml
+E:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.DependencyCollector.xml
+E:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.WindowsServer.xml
+E:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.Web.xml
+E:\Soding Assignment (Stevan Giano Putra)\obj\Debug\Soding Assignment (Stevan Giano Putra).csprojResolveAssemblyReference.cache
+E:\Soding Assignment (Stevan Giano Putra)\obj\Debug\Soding Assignment (Stevan Giano Putra).dll
+E:\Soding Assignment (Stevan Giano Putra)\obj\Debug\Soding Assignment (Stevan Giano Putra).pdb
+G:\Soding Assignment (Stevan Giano Putra)\bin\ApplicationInsights.config
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\csc.exe
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\csc.exe.config
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\csc.rsp
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\csi.exe
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\csi.rsp
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\System.AppContext.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\System.Collections.Immutable.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\System.IO.FileSystem.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\System.Reflection.Metadata.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\vbc.exe
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\vbc.exe.config
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\vbc.rsp
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\VBCSCompiler.exe
+G:\Soding Assignment (Stevan Giano Putra)\bin\roslyn\VBCSCompiler.exe.config
+G:\Soding Assignment (Stevan Giano Putra)\bin\Soding Assignment (Stevan Giano Putra).dll.config
+G:\Soding Assignment (Stevan Giano Putra)\bin\Soding Assignment (Stevan Giano Putra).dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\Soding Assignment (Stevan Giano Putra).pdb
+G:\Soding Assignment (Stevan Giano Putra)\bin\Antlr3.Runtime.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\EntityFramework.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\EntityFramework.SqlServer.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.DependencyCollector.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.Web.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.WindowsServer.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.ApplicationInsights.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.Web.Infrastructure.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\Newtonsoft.Json.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.Helpers.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.Mvc.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.Optimization.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.Razor.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.WebPages.Deployment.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.WebPages.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.WebPages.Razor.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\WebGrease.dll
+G:\Soding Assignment (Stevan Giano Putra)\bin\EntityFramework.xml
+G:\Soding Assignment (Stevan Giano Putra)\bin\EntityFramework.SqlServer.xml
+G:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.Helpers.xml
+G:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.Mvc.xml
+G:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.Optimization.xml
+G:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.Razor.xml
+G:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.WebPages.xml
+G:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.WebPages.Deployment.xml
+G:\Soding Assignment (Stevan Giano Putra)\bin\System.Web.WebPages.Razor.xml
+G:\Soding Assignment (Stevan Giano Putra)\bin\Antlr3.Runtime.pdb
+G:\Soding Assignment (Stevan Giano Putra)\bin\Newtonsoft.Json.xml
+G:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.ApplicationInsights.xml
+G:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.DependencyCollector.xml
+G:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.WindowsServer.xml
+G:\Soding Assignment (Stevan Giano Putra)\bin\Microsoft.AI.Web.xml
+G:\Soding Assignment (Stevan Giano Putra)\obj\Debug\Soding Assignment (Stevan Giano Putra).csprojResolveAssemblyReference.cache
+G:\Soding Assignment (Stevan Giano Putra)\obj\Debug\Soding Assignment (Stevan Giano Putra).dll
+G:\Soding Assignment (Stevan Giano Putra)\obj\Debug\Soding Assignment (Stevan Giano Putra).pdb
