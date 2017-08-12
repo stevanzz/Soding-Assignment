@@ -17,7 +17,7 @@ The simple task manager was developed using MVC framework with the help of Entit
 ```
 <add name="SodingEntities" connectionString="metadata=res://*/Models.TaskModel.csdl|res://*/Models.TaskModel.ssdl|res://*/Models.TaskModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=DESKTOP-FCC8BQU;initial catalog=Soding;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient" />
 ```
-7. Change its data source with the saved server name otherwise it cannot work properly
+7. Change its data source `data source=DESKTOP-FCC8BQU` with the saved server name `data source=[server name]` otherwise it cannot work properly
 8. Re-build the project
 9. Run the poroject
 
