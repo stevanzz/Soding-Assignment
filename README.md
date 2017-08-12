@@ -19,7 +19,7 @@ The simple task manager was developed using MVC framework with the help of Entit
 ```
 7. Change its data source `data source=DESKTOP-FCC8BQU` with the saved server name `data source=[server name]` otherwise it cannot work properly
 8. Re-build the project
-9. Run the poroject
+9. Run the project
 
 ## How It Works:
 There will be a simple homepage which contain several buttons to navigate through the website. you can just proceed to "Manage Task" page without need to register or login to the system. In the "Manage Task" page, there will be a list of tasks which can be used to perform various task such as create, edit/update, delete and show details of each task. These task details will be saved using SQL database.
