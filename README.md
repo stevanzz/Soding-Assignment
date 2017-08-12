@@ -14,8 +14,9 @@ The simple task manager was developed using MVC framework with the help of Entit
 4. Choose the **same** server name as the connected SQL Server Management Studio
 5. Choose the "Soding" database name then ok
 6. Do not forget to change the connection string in web.config
-> <add name="SodingEntities" connectionString="metadata=res://*/Models.TaskModel.csdl|res://*/Models.TaskModel.ssdl|res://*/Models.TaskModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=DESKTOP-FCC8BQU;initial catalog=Soding;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient" />
-
+```
+<add name="SodingEntities" connectionString="metadata=res://*/Models.TaskModel.csdl|res://*/Models.TaskModel.ssdl|res://*/Models.TaskModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=DESKTOP-FCC8BQU;initial catalog=Soding;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient" />
+```
 7. Change its data source with the saved server name otherwise it cannot work properly
 8. Re-build the project
 9. Run the poroject
